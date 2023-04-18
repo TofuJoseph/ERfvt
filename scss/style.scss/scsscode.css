@@ -1,0 +1,26 @@
+.btn-default {
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(151, 12, 12);
+  color: rgb(151, 12, 12);
+}
+
+.btn-primary {
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(28, 28, 117);
+  color: rgb(28, 28, 117);
+}
+
+.btn-secondary {
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(29, 134, 29);
+  color: rgb(29, 134, 29);
+}/*# sourceMappingURL=scsscode.css.map */
